@@ -98,6 +98,6 @@ python test.py
 | 框架版本 | Paddle 2.2.2 |
 | 应用场景 | 图像分割 |
 | 支持硬件 | GPU、CPU |
-| 下载链接 | [训练好的模型](https://aistudio.baidu.com/aistudio/datasetdetail/107078)|
+| 下载链接 | [最优模型](https://aistudio.baidu.com/aistudio/datasetdetail/107078)|
 | 在线运行 | [notebook](https://aistudio.baidu.com/aistudio/projectdetail/3441354)|
 
